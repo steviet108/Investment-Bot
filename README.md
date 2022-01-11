@@ -4,4 +4,4 @@ Amazon-Lex Chat Bot that will recommend an investment portfolio for a retirement
 
 
 
- ![ Alt text](AWS_Gif_Intro. gif) / ! [](AWS_Gif_Intro. gif)
+ ![ Alt text](Resources/AWS_Gif_Intro. gif) / ! [](Resources/AWS_Gif_Intro. gif)
