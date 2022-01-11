@@ -64,7 +64,7 @@ Here you can see when the user inputs an invalid age requirement, the bot is una
 
 ## Demo of amountError
 
-![AWS Gif amountError](Resources/AWS_Gif_AmountErorr.gif)
+![AWS Gif amountError](Resources/AWS_Gif_AmountError.gif)
 
 Here you can see when the user inputs an invalid amount of investment capital, the bot responds that it is unable to help due to an amount error. As seen with the age error. Age and amount to invest both have requirements that if unmet, the bot stops with assistance. ``` Age ``` and ``` investmentAmount ``` are both slots that the bot needs valid input to fulfill the users intent.
 
